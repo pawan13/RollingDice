@@ -1,2 +1,2 @@
 # RollingDice
-Rolling dice game on android using Java
+Rolling dice game on android studio using Java
